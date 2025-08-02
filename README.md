@@ -12,7 +12,7 @@
 ### 👨‍💻 About Me
 
 Halo! Saya **Cahya Abdurrahman**,
-Saya memiliki ketertarikan kuat pada bidang **Artificial Intelligence**, khususnya **Machine Learning** dan **Deep Learning**.
+Saya memiliki ketertarikan kuat pada bidang **Artificial Intelligence**, khususnya **Machine Learning**, **Deep Learning** dan **Computer Vision**.
 ---
 
 ### 🛠️ Tech Stack
