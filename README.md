@@ -11,16 +11,20 @@
 
 ### 👨‍💻 About Me
 
-Halo! Saya **Cahya Abdurrahman**,
-Saya memiliki ketertarikan kuat pada bidang **Artificial Intelligence**, khususnya **Machine Learning**, **Deep Learning** dan **Computer Vision**.
+Hello there! im **Cahya Abdurrahman**,
+I have a strong interest in Artificial Intelligence, particularly in Machine Learning, Deep Learning, and Computer Vision.
+
+I'm a Computer Engineering student passionate about:
+- 💻 Web development (Laravel, Flask)
+- 🤖 Machine learning & AI
+- 🔧 Hardware and IoT projects
 ---
 
 ### 🛠️ Tech Stack
 
-- **Programming Languages:** C++, Python, Java, JavaScript
-- **Framework & Tools:** TensorFlow, FastAPI, Streamlit, YOLO, Git
+- **Programming Languages:** C++, Python, Java, Kotlin, JavaScript, HTML, 
+- **Framework & Tools:** Laravel, Tailwind, TensorFlow, FastAPI, Git, 
 - **ML Concepts:** CNN, Computer Vision, Recommendation System, 
-- **Soft Skills:** Teamwork, Adaptability, Communication
 
 ---
 
