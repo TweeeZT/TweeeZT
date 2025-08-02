@@ -34,7 +34,7 @@ Here are some projects that reflect my interests and skills:
 - 🎥 [Anime-Recommendation-System](https://github.com/TweeeZT/Anime-Recommendation-System)  
   Sistem rekomendasi anime berbasis content-based filtering.
 
-- 😷 Sistem Deteksi Pemakai Masker  
+- 😷 [Sistem Deteksi Pemakai Masker](https://github.com/TweeeZT/Computer-Vision-Mask-Detection)
   Deteksi wajah dengan atau tanpa masker menggunakan CNN.
 
 - 🧠 [Sentiment-Analysis-Livin](https://github.com/TweeeZT/Sentiment-Analysis-Livin)  
