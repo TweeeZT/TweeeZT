@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Cahya 👋</h1>
+<h1 align="center">Hi there, I'm TweeeZT or call me twee 👋</h1>
 <p align="center">
   <em>Computer Engineering student | AI & Machine Learning enthusiast</em>
 </p>
@@ -11,7 +11,7 @@
 
 ### 👨‍💻 About Me
 
-Hello there! im **Cahya Abdurrahman**,
+Hello there! im **TweeeZT**,
 I have a strong interest in Artificial Intelligence, particularly in Machine Learning, Deep Learning, and Computer Vision.
 
 I'm a Computer Engineering student passionate about:
