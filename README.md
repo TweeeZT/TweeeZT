@@ -31,7 +31,7 @@ class Developer:
             "Deep Learning",
             "Computer Vision",
             "Web Development",
-            "Mobile App Development"
+            "Mobile App Development",
             "IoT & Embedded Systems"
         ]
         self.current_focus = "Building AI-powered applications"
