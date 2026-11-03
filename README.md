@@ -20,30 +20,6 @@
 
 ## About Me
 
-```python
-class Developer:
-    def __init__(self):
-        self.name = "TweeeZT"
-        self.role = "Computer Engineering Graduate"
-        self.interests = [
-            "Artificial Intelligence",
-            "Machine Learning",
-            "Deep Learning",
-            "Computer Vision",
-            "Web Development",
-            "Mobile App Development",
-            "IoT & Embedded Systems"
-        ]
-        self.current_focus = "Building AI-powered applications"
-        self.goal = "Becoming an AI Engineer"
-
-    def say_hi(self):
-        print("Thanks for visiting my GitHub!")
-
-
-me = Developer()
-me.say_hi()
-```
 
 I'm a Computer Engineering graduate passionate about exploring the intersection of software, artificial intelligence, and intelligent systems.
 
