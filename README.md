@@ -1,7 +1,7 @@
 # Hey, I'm TweeeZT!
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;AI+%26+Machine+Learning+Enthusiast;Building+Intelligent+Applications;Turning+Ideas+Into+Reality+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Computer+Engineering+Graduate;AI+%26+Machine+Learning+Enthusiast;Building+Intelligent+Applications;Turning+Ideas+Into+Reality+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -45,7 +45,7 @@ me = Developer()
 me.say_hi()
 ```
 
-I'm a Computer Engineering student passionate about exploring the intersection of software, artificial intelligence, and intelligent systems.
+I'm a Computer Engineering graduate passionate about exploring the intersection of software, artificial intelligence, and intelligent systems.
 
 I enjoy experimenting with machine learning algorithms, developing deep learning models, and turning ideas into practical applications.
 
