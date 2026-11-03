@@ -228,19 +228,6 @@ Here are some projects I've worked on across AI, machine learning, web developme
 
 ---
 
-## 🤝 Let's Connect!
-
-I'm always open to learning, collaborating, and connecting with people who share similar interests in technology and AI.
-
-<p align="center">
-  <a href="https://github.com/TweeeZT">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
 <p align="center">
   <i>"The best way to predict the future is to build it."</i>
 </p>
